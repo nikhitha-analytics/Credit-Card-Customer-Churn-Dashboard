@@ -100,6 +100,7 @@ Targeted Engagement: Young and early-career customers can be engaged with lifest
 Loyalty Management: Insights on tenure-based churn help design milestone rewards, anniversary benefits, and renewal bonuses to strengthen long-term loyalty
 
 screenshot:
+![Credit Card Customer Churn Dashboard](Dashboard%20Snapshot-%20Credit%20Card%20%20Customer%20Churn%20Dashboard.png)
 
 
 
