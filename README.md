@@ -65,38 +65,33 @@ Walkthrough of Key Visuals
 
 Key KPIs (Top Row)
 
-•Total Customers: 10,127
-•Churned Customers: 1,626
+• Total Customers: 10,127
 
-•Overall Churn Rate: 16.07%
+• Churned Customers: 1,626
 
-Customer Status (Donut Chart)
-Visualizes the split between Active vs. Attrited customers, highlighting churn’s share of the customer base.
+• Overall Churn Rate: 16.07%
 
-Churn by Card Category (Bar Chart)
-Compares churn rates across Blue, Silver, Gold, and Platinum cards. Platinum shows the highest attrition at 25%, making it the most vulnerable segment.
+• Customer Status (Donut Chart): Visualizes the split between Active vs. Attrited customers, highlighting churn’s share of the customer base.
 
-Churn by Tenure & Card Category (Clustered Column Chart)
-Shows churn patterns across Months on Book and card type. The 3–4 year tenure group has the highest churn (33.3% in Platinum), revealing declining loyalty after a few years.
+• Churn by Card Category (Bar Chart): Compares churn rates across Blue, Silver, Gold, and Platinum cards. Platinum shows the highest attrition at 25%, making it the most vulnerable segment.
 
-Churn by Age Group & Card Category (Bar Chart)
-Breaks down churn across age groups and card types. Younger customers (26–35) holding Gold cards churn the most (37.5%), followed by mid-aged Platinum customers.
+• Churn by Tenure & Card Category (Clustered Column Chart): Shows churn patterns across Months on Book and card type. The 3–4 year tenure group has the highest churn (33.3% in Platinum), revealing declining loyalty after a few years.
 
-Churn by Credit Limit & Card Category (Column Chart)
-Highlights how churn varies with credit limits. Mid-limit Platinum users show the highest churn rate (50%), suggesting dissatisfaction with credit offerings.
+• Churn by Age Group & Card Category (Bar Chart): Breaks down churn across age groups and card types. Younger customers (26–35) holding Gold cards churn the most (37.5%), followed by mid-aged Platinum customers.
 
-Customer Spend vs. Credit vs. Income (Scatter Plot)
-Maps customer income, spend, and credit behavior against churn outcomes. Reveals that churn patterns differ notably between Gold and Platinum users.
+• Churn by Credit Limit & Card Category (Column Chart): Highlights how churn varies with credit limits. Mid-limit Platinum users show the highest churn rate (50%), suggesting dissatisfaction with credit offerings.
+
+• Customer Spend vs. Credit vs. Income (Scatter Plot): Maps customer income, spend, and credit behavior against churn outcomes. Reveals that churn patterns differ notably between Gold and Platinum users.
 
 Business Impact and Insights:
 
-Customer Retention: Banks can identify high-value segments (e.g., Platinum cardholders) at risk of churn and design targeted retention strategies.
+• Customer Retention: Banks can identify high-value segments (e.g., Platinum cardholders) at risk of churn and design targeted retention strategies.
 
-Product Optimization: Credit offerings can be adjusted for mid-limit users to better match their needs and reduce attrition.
+• Product Optimization: Credit offerings can be adjusted for mid-limit users to better match their needs and reduce attrition.
 
-Targeted Engagement: Young and early-career customers can be engaged with lifestyle-driven rewards and digital payment incentives.
+• Targeted Engagement: Young and early-career customers can be engaged with lifestyle-driven rewards and digital payment incentives.
 
-Loyalty Management: Insights on tenure-based churn help design milestone rewards, anniversary benefits, and renewal bonuses to strengthen long-term loyalty
+• Loyalty Management: Insights on tenure-based churn help design milestone rewards, anniversary benefits, and renewal bonuses to strengthen long-term loyalty
 
 screenshot:
 ![Credit Card Customer Churn Dashboard](Dashboard%20Snapshot-%20Credit%20Card%20%20Customer%20Churn%20Dashboard.png)
