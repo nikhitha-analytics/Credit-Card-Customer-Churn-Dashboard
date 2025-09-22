@@ -42,13 +42,8 @@ The bank is experiencing high customer attrition in its credit card segment. Wit
 
   • Does tenure (months on book) influence churn rates?
 
-  • How does customer income and spending behavior relate to churn patterns?
-
-  • Which customer segment represents the highest risk of churn?
-
-  • What actionable insights can help improve customer retention strategies?
-
-Goal of the Dashboard
+  
+  Goal of the Dashboard
 
 To analyze churn patterns across customer demographics, credit limits, and card categories, and provide actionable insights that help the bank predict and reduce attrition.
 
@@ -75,6 +70,7 @@ Key KPIs (Top Row)
 • Churn by Credit Limit & Card Category (Column Chart): Highlights how churn varies with credit limits. Mid-limit Platinum users show the highest churn rate (50%), suggesting dissatisfaction with credit offerings.
 
 • Customer Spend vs. Credit vs. Income (Scatter Plot): Maps customer income, spend, and credit behavior against churn outcomes. Reveals that churn patterns differ notably between Gold and Platinum users.
+
 
 Business Impact and Insights:
 
