@@ -32,28 +32,28 @@ The bank is experiencing high customer attrition in its credit card segment. Wit
 
 Key questains such as:
 
-1.What is the overall churn rate among credit card customers?
+• What is the overall churn rate among credit card customers?
 
 
-2. Which customer demographics (age, gender) are most likely to churn?
+• Which customer demographics (age, gender) are most likely to churn?
 
 
-3. How does churn vary across different card categories (Blue, Silver, Gold, Platinum)?
+• How does churn vary across different card categories (Blue, Silver, Gold, Platinum)?
 
 
-4. What is the relationship between credit limit and customer churn?
+• What is the relationship between credit limit and customer churn?
 
 
-5. Does tenure (months on book) influence churn rates?
+• Does tenure (months on book) influence churn rates?
 
 
-6. How does customer income and spending behavior relate to churn patterns?
+• How does customer income and spending behavior relate to churn patterns?
 
 
-7. Which customer segment represents the highest risk of churn?
+• Which customer segment represents the highest risk of churn?
 
 
-8. What actionable insights can help improve customer retention strategies?
+• What actionable insights can help improve customer retention strategies?
 
 Goal of the Dashboard
 
