@@ -47,29 +47,21 @@ The bank is experiencing high customer attrition in its credit card segment. Wit
 
 To analyze churn patterns across customer demographics, credit limits, and card categories, and provide actionable insights that help the bank predict and reduce attrition.
 
-Walkthrough of Key Visuals:
+• Walkthrough of Key Visuals:
 
-Walkthrough of Key Visuals
+  Key KPIs (Top Row): Total Customers: 10,127,Churned Customers: 1,626,Overall Churn Rate: 16.07%
 
-Key KPIs (Top Row)
+  • Customer Status (Donut Chart): Visualizes the split between Active vs. Attrited customers, highlighting churn’s share of the customer base.
 
-• Total Customers: 10,127
+  • Churn by Card Category (Bar Chart): Compares churn rates across Blue, Silver, Gold, and Platinum cards. Platinum shows the highest attrition at 25%, making it      the most vulnerable segment.
 
-• Churned Customers: 1,626
+  • Churn by Tenure & Card Category (Clustered Column Chart): Shows churn patterns across Months on Book and card type. The 3–4 year tenure group has the highest       churn (33.3% in Platinum), revealing declining loyalty after a few years.
 
-• Overall Churn Rate: 16.07%
+  • Churn by Age Group & Card Category (Bar Chart): Breaks down churn across age groups and card types. Younger customers (26–35) holding Gold cards churn the most    (37.5%), followed by mid-aged Platinum customers.
 
-• Customer Status (Donut Chart): Visualizes the split between Active vs. Attrited customers, highlighting churn’s share of the customer base.
+   • Churn by Credit Limit & Card Category (Column Chart): Highlights how churn varies with credit limits. Mid-limit Platinum users show the highest churn rate          (50%), suggesting dissatisfaction with credit offerings.
 
-• Churn by Card Category (Bar Chart): Compares churn rates across Blue, Silver, Gold, and Platinum cards. Platinum shows the highest attrition at 25%, making it the most vulnerable segment.
-
-• Churn by Tenure & Card Category (Clustered Column Chart): Shows churn patterns across Months on Book and card type. The 3–4 year tenure group has the highest churn (33.3% in Platinum), revealing declining loyalty after a few years.
-
-• Churn by Age Group & Card Category (Bar Chart): Breaks down churn across age groups and card types. Younger customers (26–35) holding Gold cards churn the most (37.5%), followed by mid-aged Platinum customers.
-
-• Churn by Credit Limit & Card Category (Column Chart): Highlights how churn varies with credit limits. Mid-limit Platinum users show the highest churn rate (50%), suggesting dissatisfaction with credit offerings.
-
-• Customer Spend vs. Credit vs. Income (Scatter Plot): Maps customer income, spend, and credit behavior against churn outcomes. Reveals that churn patterns differ notably between Gold and Platinum users.
+  • Customer Spend vs. Credit vs. Income (Scatter Plot): Maps customer income, spend, and credit behavior against churn outcomes. Reveals that churn patterns           differ notably between Gold and Platinum users.
 
 
 Business Impact and Insights:
