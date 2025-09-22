@@ -30,30 +30,23 @@ Business Problem
 
 The bank is experiencing high customer attrition in its credit card segment. With only 16% churned customers in the dataset, identifying at-risk customers is challenging. If churn drivers are not understood, the bank risks losing high-value clients and revenue
 
-Key questains such as:
+• Key questains such as:
 
-• What is the overall churn rate among credit card customers?
+  • What is the overall churn rate among credit card customers?
 
+  • Which customer demographics (age, gender) are most likely to churn?
 
-• Which customer demographics (age, gender) are most likely to churn?
+  • How does churn vary across different card categories (Blue, Silver, Gold, Platinum)?
 
+  • What is the relationship between credit limit and customer churn?
 
-• How does churn vary across different card categories (Blue, Silver, Gold, Platinum)?
+  • Does tenure (months on book) influence churn rates?
 
+  • How does customer income and spending behavior relate to churn patterns?
 
-• What is the relationship between credit limit and customer churn?
+  • Which customer segment represents the highest risk of churn?
 
-
-• Does tenure (months on book) influence churn rates?
-
-
-• How does customer income and spending behavior relate to churn patterns?
-
-
-• Which customer segment represents the highest risk of churn?
-
-
-• What actionable insights can help improve customer retention strategies?
+  • What actionable insights can help improve customer retention strategies?
 
 Goal of the Dashboard
 
