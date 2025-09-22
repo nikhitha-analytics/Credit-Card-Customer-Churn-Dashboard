@@ -66,7 +66,6 @@ Walkthrough of Key Visuals
 Key KPIs (Top Row)
 
 •Total Customers: 10,127
-
 •Churned Customers: 1,626
 
 •Overall Churn Rate: 16.07%
