@@ -3,11 +3,11 @@
 
  Interactive Power BI dashboard analyzing credit card customer churn.Provides insights into customer behavior, churn drivers, and risk segments
 
-2.Short Description
+2. ### Short Description
 
 A dynamic Power BI dashboard built on Kaggle data that analyzes customer behavior to uncover why customers leave and identify churn patterns. It highlights key factors such as demographics, tenure, credit utilization, and spending behavior through interactive visuals, turning raw data into insights that help improve customer retention strategies.
 
-3.Tech Stack
+3. ### Tech Stack
 
 The dashboard was built using the following tools and technologies:
 
@@ -20,13 +20,13 @@ The dashboard was built using the following tools and technologies:
 📁 File Format – .pbix for development and .png for dashboard previews.
 
 
-4.Data Source
+4. ### Data Source
 
 Dataset: Credit Card Customer Churn dataset from Kaggle
 
 Structure: Contains customer demographics (age, gender, income), card category, credit/spending behavior, and churn status (active vs. attrited).
 
-5.Features
+5. ### Features
 
 Business Problem
 
