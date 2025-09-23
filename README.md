@@ -1,5 +1,5 @@
 # Credit-Card-Customer-Churn-Dashboard
-1.💳 Credit Card Customer Churn Dashboard- Interactive Power BI dashboard analyzing credit card customer churn.Provides insights into customer behavior, churn drivers, and risk segments
+1. ### Credit Card Customer Churn Dashboard- Interactive Power BI dashboard analyzing credit card customer churn.Provides insights into customer behavior, churn drivers, and risk segments
 
 2.Short Description
 
