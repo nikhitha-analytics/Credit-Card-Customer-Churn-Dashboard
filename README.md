@@ -32,26 +32,26 @@ Business Problem
 
 The bank is experiencing high customer attrition in its credit card segment. With only 16% churned customers in the dataset, identifying at-risk customers is challenging. If churn drivers are not understood, the bank risks losing high-value clients and revenue
 
-• Key questains such as:
+•Key questains such as
 
-  • What is the overall churn rate among credit card customers?
+   • What is the overall churn rate among credit card customers?
 
-  • Which customer demographics (age, gender) are most likely to churn?
+   • Which customer demographics (age, gender) are most likely to churn?
 
-  • How does churn vary across different card categories (Blue, Silver, Gold, Platinum)?
+   • How does churn vary across different card categories (Blue, Silver, Gold, Platinum)?
 
-  • What is the relationship between credit limit and customer churn?
+   • What is the relationship between credit limit and customer churn?
 
-  • Does tenure (months on book) influence churn rates?
+   • Does tenure (months on book) influence churn rates?
 
   
-  Goal of the Dashboard
+• Goal of the Dashboard
 
-To analyze churn patterns across customer demographics, credit limits, and card categories, and provide actionable insights that help the bank predict and reduce attrition.
+   To analyze churn patterns across customer demographics, credit limits, and card categories, and provide actionable insights that help the bank predict and reduce attrition.
 
 • Walkthrough of Key Visuals:
 
-  Key KPIs (Top Row): Total Customers: 10,127,Churned Customers: 1,626,Overall Churn Rate: 16.07%
+   Key KPIs (Top Row): Total Customers: 10,127,Churned Customers: 1,626,Overall Churn Rate: 16.07%
 
   • Customer Status (Donut Chart): Visualizes the split between Active vs. Attrited customers, highlighting churn’s share of the customer base.
 
