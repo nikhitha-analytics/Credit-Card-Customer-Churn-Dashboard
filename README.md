@@ -28,7 +28,7 @@ Structure: Contains customer demographics (age, gender, income), card category, 
 
 5. ### Features
 
-Business Problem:
+📉Business Problem:
 
 The bank is experiencing high customer attrition in its credit card segment. With only 16% churned customers in the dataset, identifying at-risk customers is challenging. If churn drivers are not understood, the bank risks losing high-value clients and revenue
 
@@ -46,13 +46,13 @@ Key questains such as:
    
 
   
-• Goal of the Dashboard:
+•🎯 Goal of the Dashboard:
 
    To analyze churn patterns across customer demographics, credit limits, and card categories, and provide actionable insights that help the bank predict and reduce attrition.
 
    
 
-• Walkthrough of Key Visuals:
+• 📊Walkthrough of Key Visuals:
 
 
    Key KPIs (Top Row): Total Customers: 10,127,Churned Customers: 1,626,Overall Churn Rate: 16.07%
@@ -70,7 +70,7 @@ Key questains such as:
   • Customer Spend vs. Credit vs. Income (Scatter Plot): Maps customer income, spend, and credit behavior against churn outcomes. Reveals that churn patterns           differ notably between Gold and Platinum users.
 
 
-Business Impact and Insights:
+💡Business Impact and Insights:
 
 • Customer Retention: Banks can identify high-value segments (e.g., Platinum cardholders) at risk of churn and design targeted retention strategies.
 
