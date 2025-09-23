@@ -32,7 +32,7 @@ Business Problem
 
 The bank is experiencing high customer attrition in its credit card segment. With only 16% churned customers in the dataset, identifying at-risk customers is challenging. If churn drivers are not understood, the bank risks losing high-value clients and revenue
 
-•Key questains such as
+. #### Key questains such as
 
    • What is the overall churn rate among credit card customers?
 
