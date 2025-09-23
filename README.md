@@ -43,11 +43,14 @@ The bank is experiencing high customer attrition in its credit card segment. Wit
    • What is the relationship between credit limit and customer churn?
 
    • Does tenure (months on book) influence churn rates?
+   
 
   
 • Goal of the Dashboard
 
    To analyze churn patterns across customer demographics, credit limits, and card categories, and provide actionable insights that help the bank predict and reduce attrition.
+
+   
 
 • Walkthrough of Key Visuals:
 
